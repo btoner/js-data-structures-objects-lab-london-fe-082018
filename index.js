@@ -5,4 +5,6 @@ function updateDriverWithKeyAndValue(driver, key, value){
   return driver = Object.assign({name: 'Sam', address: '11 Broadway'}, driver);
 }
 
-function 
+function destructivelyUpdateDriverWithKeyAndValue(driver, key, value){
+  
+}
